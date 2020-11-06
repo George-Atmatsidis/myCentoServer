@@ -97,11 +97,16 @@ timedatectl set-timezone Europe/Athens
 }
 
 Firewalld() {
-echo "[*] Filter SSH at the Firewall"
+echo "Filter SSH at the Firewall"
 firewall-cmd --permanent --remove-service="ssh"
 firewall-cmd --permanent --add-rich-rule='rule family="ipv4" source address='$publicip' service name="ssh" accept'
-echo "* Open http 80 port tcp"
+echo "Open firewall ports 25/443/80/8080/http(s)"
 firewall-cmd --zone=public --add-port=80/tcp --permanent
+firewall-cmd --permanent --add-service=http
+firewall-cmd --permanent --add-service=https
+firewall-cmd --zone=public --add-port 25/tcp --permanent
+firewall-cmd --zone=public --add-port 8080/tcp --permanent
+firewall-cmd --zone=public --add-port 443/tcp --permanent
 firewall-cmd --reload
 }
 
