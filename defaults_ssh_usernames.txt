@@ -18,4 +18,69 @@ A2 Hosting
 Interserver
 MochaHost
 SiteGround
+Cloudways
+Linode
+Vultr
+Microhost
+Amazon Lightsail
+Atlantic.Net Inc.
+AWS Direct Connect
+ServerAvatar
+Neverinstall
+AccuWeb Hosting
+SSD Nodes
+Serverspace
+OVH
+OVHcloud
+OpenVZ Cloud Servers
+UpCloud
+HostPapa
+Netrepid
+IO Zoom
+KnownHost
+Media Temple Hosting Solution
+UK Web hosting
+Azure Virtual Network
+RoseHosting
+20i®
+GigaPros VPS
+myhosting.com
+Scaleway
+AmazonStudios.ge
+A Small Orange
+CloudVPS
+Dynadot
+Managed Server Hosting
+Nexcess Hosting
+Database by Design
+HostArmada
+pair Networks
+SpeedeHost.Com
+HostMonster
+Tothost
+Abacus Private Cloud
+Arvixe Web Hosting
+ChemiCloud
+Cloudzy
+FatCow
+Ingram Micro VPS
+InterServer
+ServageOne
+Site5
+Alibaba Express Connect
+HostPlay.Com
+UltaHost
+Virtual Servers by Evolve IP
+VPSServer
+VPSSIM
+Datapath.io
+Diadem Hosting
+GreenGeeks
+Hosterplan
+Advanced Hosting
+HostLabs
+Inferno Solutions
+Ipower Hosting
+Iran VPS
+Just Host
 
